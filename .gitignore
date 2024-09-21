@@ -1,3 +1,5 @@
 *.txt
 *.py
 !one.txt
+
+[aeious]*.php
